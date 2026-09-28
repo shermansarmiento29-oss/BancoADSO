@@ -53,3 +53,4 @@ class Conexion
         return self::$instancia;              // siempre devuelve la MISMA conexión
     }
 }
+?>
